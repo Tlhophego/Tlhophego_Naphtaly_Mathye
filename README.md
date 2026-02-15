@@ -1,8 +1,6 @@
 # Tlhophego Naphtaly Mathye
-
 **Solutions Developer · Java Backend · React Native · React Web**  
 *Building robust backends and seamless mobile experiences*
-
 📍 Pretoria, South Africa &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tnmathye) &nbsp;|&nbsp; [tlhophegom@gmail.com](mailto:tlhophegom@gmail.com)
 
 ---
@@ -12,7 +10,6 @@
 I'm a **Solutions Developer** with **3 years of experience** based in Pretoria, South Africa, originally from Polokwane, Moletjie. I specialise in low-code/no-code development as part of my current role, and I am deeply passionate about crafting high-quality mobile applications and web solutions.
 
 This repository is dedicated to my personal growth and portfolio work in:
-
 - **Java Backend Development** with the Spring Framework
 - **Mobile Development** with React Native
 - **Web Development** with React
@@ -34,6 +31,23 @@ PostgreSQL, MySQL, MongoDB
 
 **Tools & Platforms**  
 Git, GitHub, VS Code, IntelliJ IDEA
+
+---
+
+## Projects
+
+### 🔐 JWT Authentication with Spring Boot
+> *Private Repository*
+
+A RESTful API implementing JWT-based authentication and authorization using Spring Boot and Spring Security. Demonstrates secure user registration, login, and protected route access using JSON Web Tokens.
+
+**Tech:** Java · Spring Boot · Spring Security · JWT · PostgreSQL · MySQL
+
+**Highlights:**
+- Secure signup and signin endpoints with JWT token issuance
+- Role-based access control with protected and public routes
+- Environment variable configuration to keep secrets out of source control
+- Clean layered architecture: controller → DTO → entity → repository → security
 
 ---
 
