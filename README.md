@@ -1,6 +1,7 @@
 # Tlhophego Naphtaly Mathye
 **Solutions Developer · Java Backend · React Native · React Web**  
 *Building robust backends and seamless mobile experiences*
+
 📍 Pretoria, South Africa &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tnmathye) &nbsp;|&nbsp; [tlhophegom@gmail.com](mailto:tlhophegom@gmail.com)
 
 ---
@@ -10,6 +11,7 @@
 I'm a **Solutions Developer** with **3 years of experience** based in Pretoria, South Africa, originally from Polokwane, Moletjie. I specialise in low-code/no-code development as part of my current role, and I am deeply passionate about crafting high-quality mobile applications and web solutions.
 
 This repository is dedicated to my personal growth and portfolio work in:
+
 - **Java Backend Development** with the Spring Framework
 - **Mobile Development** with React Native
 - **Web Development** with React
@@ -48,6 +50,22 @@ A RESTful API implementing JWT-based authentication and authorization using Spri
 - Role-based access control with protected and public routes
 - Environment variable configuration to keep secrets out of source control
 - Clean layered architecture: controller → DTO → entity → repository → security
+
+---
+
+### 📱 JWT React Native Login
+> [github.com/Tlhophego/jwt_react_native_login](https://github.com/Tlhophego/jwt_react_native_login)
+
+A React Native (Expo) mobile application serving as the frontend client for the Spring Boot JWT Authentication API. Demonstrates end-to-end JWT authentication flow from a mobile interface.
+
+**Tech:** React Native · Expo · TypeScript · NativeWind (Tailwind CSS) · Expo Router
+
+**Highlights:**
+- Mobile login and registration screens consuming the Spring Boot JWT API
+- Secure token handling and protected route navigation
+- File-based routing with Expo Router
+- Tailwind CSS styling via NativeWind
+- Clean separation of configuration, theming, and screen logic
 
 ---
 
