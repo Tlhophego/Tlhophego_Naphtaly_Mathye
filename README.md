@@ -54,7 +54,7 @@ A RESTful API implementing JWT-based authentication and authorization using Spri
 ---
 
 ### 📱 JWT React Native Login
-> [github.com/Tlhophego/jwt_react_native_login](https://github.com/Tlhophego/jwt_react_native_login)
+> *Private Repository*
 
 A React Native (Expo) mobile application serving as the frontend client for the Spring Boot JWT Authentication API. Demonstrates end-to-end JWT authentication flow from a mobile interface.
 
